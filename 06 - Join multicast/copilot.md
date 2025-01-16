@@ -1,0 +1,1 @@
+Write a linux C++ program which joins the UDP multicast group using SSM where the source is an IP address and port number provides as command line arguments. Join the group, receive data from the group for 100 seconds and then leave the group and exit.
